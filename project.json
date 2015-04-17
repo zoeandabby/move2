@@ -1,0 +1,10 @@
+{
+    "name": "move2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "move2.xml",
+    "author": "zoeandabby",
+    "minimum_firmware_version": 42
+}
